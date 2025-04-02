@@ -5,4 +5,5 @@ This project is a starting point for a Web application.
 - [프로젝트 메인 주소](https://github.com/본인아이디/WEB_MAIN)
 ## 2주차 수업 메인화면 개발 완료! (문제 포함)
 ## 3주차 수업 부트스트랩 적용 완료! (문제 제외)
-## 4주차 
+## 4주차 수업 부트스트랩으로 네비게이션, 테이블 적용 완료!
+## 5주차 수업 네비게이션 검색 수정, 팝업창 화면에 띄우기 완료!
